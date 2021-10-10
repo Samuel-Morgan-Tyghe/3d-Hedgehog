@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/3d-Hedgehog/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/3d-Hedgehog/static/js/main.3746e3dc.chunk.js",
+    "main.js.map": "/3d-Hedgehog/static/js/main.3746e3dc.chunk.js.map",
+    "runtime-main.js": "/3d-Hedgehog/static/js/runtime-main.be027f02.js",
+    "runtime-main.js.map": "/3d-Hedgehog/static/js/runtime-main.be027f02.js.map",
+    "static/js/2.ffaf1845.chunk.js": "/3d-Hedgehog/static/js/2.ffaf1845.chunk.js",
+    "static/js/2.ffaf1845.chunk.js.map": "/3d-Hedgehog/static/js/2.ffaf1845.chunk.js.map",
+    "static/js/3.8f8800c4.chunk.js": "/3d-Hedgehog/static/js/3.8f8800c4.chunk.js",
+    "static/js/3.8f8800c4.chunk.js.map": "/3d-Hedgehog/static/js/3.8f8800c4.chunk.js.map",
+    "index.html": "/3d-Hedgehog/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/3d-Hedgehog/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ffaf1845.chunk.js.LICENSE.txt": "/3d-Hedgehog/static/js/2.ffaf1845.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be027f02.js",
+    "static/js/2.ffaf1845.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3746e3dc.chunk.js"
+  ]
+}
